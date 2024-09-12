@@ -1,4 +1,4 @@
-package ATV02;
+package Aula04_09.ATV02;
 
 import java.util.Random;
 
@@ -28,7 +28,7 @@ public class Vetor {
         }
 
         // Mostra os resultados
-        System.out.print("ATV02.Vetor: ");
+        System.out.print("Aula04_09.ATV02.Vetor: ");
         for (int i = 0; i < vetor.length; i++) {
             System.out.print(vetor[i] + " ");
         }

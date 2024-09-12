@@ -1,4 +1,4 @@
-package ATV02;
+package Aula04_09.ATV02;
 
 import java.util.Random;
 
